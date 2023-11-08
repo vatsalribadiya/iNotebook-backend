@@ -1,0 +1,6 @@
+Use JWT token for authtication
+npm i jsonwebtoken
+
+express validator use for validation
+
+monogodb for database
